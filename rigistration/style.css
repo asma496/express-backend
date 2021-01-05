@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+
+.main{
+
+    border: 2px solid blue;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 4 4 4 4 grey ;
+    background-color: rgb(95, 81, 218);
+    box-shadow: 0 0 18px blue;
+    padding: 20px;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+
+
+  
+}
+
+.he1{
+    font-family: 'Great Vibes', cursive;
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    font-family: 'Great Vibes', cursive;
+    width: 90px;
+    letter-spacing: 0.1em;
+    border-radius: 25px !important;
+}
+
+.btn :hover{
+    background-color: rgb(113, 113, 238) !important  ;
+}
+
+
+@media screen and (max-width:768px){
+    .main{
+
+        border: 2px solid blue;
+        width: 230px;
+        text-align: center;
+        margin: auto;
+        margin-top: 50px;
+        box-shadow: 4 4 4 4 grey ;
+        background-color: rgb(95, 81, 218);
+        padding: 20px;
+        -moz-box-shadow:    inset 0 0 10px #000000;
+        -webkit-box-shadow: inset 0 0 10px #000000;
+        box-shadow:         inset 0 0 10px #000000;
+    
+    
+      
+    }
+    
+    
+}
+
+
+
+
+

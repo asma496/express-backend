@@ -1,4 +1,4 @@
-.para{
+/* .para{
     background-color: yellow;
     width: 200px;
     text-align: center;
@@ -10,4 +10,48 @@ h1{
     margin: auto;
     text-align: center;
     text-decoration: underline;
+} */
+
+body{
+    background-color: rgb(24, 21, 21);
 }
+
+.he1{
+    font-family: 'Great Vibes', cursive;
+    color: blue;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 80px;
+
+  
+}
+.btn{
+    background-color: blue;
+    color: white !important;
+    font-family: 'Great Vibes', cursive;
+    width: 90px;
+    letter-spacing: 0.1em;
+    text-align: center !important;
+    margin: auto !important;
+    height: 50px;
+    border-radius: 25px !important;
+
+}
+.btn :hover{
+   background-color: rgb(101, 101, 243) !important;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.he1,.btn{
+    text-align: center;
+    margin: auto;
+}
+.bt1{
+    text-align: center;
+    margin-top: 50px;
+}
+ .man{
+     margin-top: 200px;
+ }
